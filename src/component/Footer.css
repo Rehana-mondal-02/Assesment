@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: red;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.p1{
+    float: left;
+
+}
+.p2{
+    margin-left: 80%;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content:space-around;
+    align-items: center;
+}
+
